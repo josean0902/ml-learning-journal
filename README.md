@@ -20,4 +20,5 @@ I am just starting, so it will gradually include notebooks, scripts, datasets, a
 ---
 
 ### Current Notebooks
-- *No notebooks yet – will add soon*
+- [Age vs Medical Charges (Gradient Descent for Single Regression)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/gradient-descent-single.ipynb)
+- [Experience vs Salary (Gradient Descent for Multiple Regression with Vectorization)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/gradient-descent-single.ipynb)
