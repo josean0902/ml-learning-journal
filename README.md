@@ -22,3 +22,4 @@ I am just starting, so it will gradually include notebooks, scripts, datasets, a
 ### Current Notebooks
 - [Age vs Medical Charges (Gradient Descent for Single Regression)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/gradient-descent-single.ipynb)
 - [Experience vs Salary (Gradient Descent for Multiple Regression with Vectorization)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/gradient-descent-single.ipynb)
+- [Diabetes prediction (Normalized features, scikit_learn and sigmoid function)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/normalization-scikitlearn-sigmoid.ipynb)
