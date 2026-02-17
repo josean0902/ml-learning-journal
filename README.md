@@ -26,3 +26,4 @@ I am just starting, so it will gradually include notebooks, scripts, datasets, a
 - [Breast cancer prediction (Logistic Regresion)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/gradien-descent-logistic.ipynb)
 - [Handwritten digits classification (Tensorflow)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/digits-classification-tensorflow.ipynb)
 - [Point group classification (Tensorflow)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/simple-random-points-classification-tensorflow.ipynb)
+- [Regression Analysis on the California Housing Dataset (Tensorflow)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/california-housing-prediction-tensorflow.ipynb)
