@@ -24,3 +24,5 @@ I am just starting, so it will gradually include notebooks, scripts, datasets, a
 - [Experience vs Salary (Gradient Descent for Multiple Regression with Vectorization)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/gradient-descent-single.ipynb)
 - [Diabetes prediction (Normalized features, scikit_learn and sigmoid function)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/normalization-scikitlearn-sigmoid.ipynb)
 - [Breast cancer prediction (Logistic Regresion)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/gradien-descent-logistic.ipynb)
+- [Handwritten digits classification (Tensorflow)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/digits-classification-tensorflow.ipynb)
+- [Point group classification (Tensorflow)](https://github.com/josean0902/ml-learning-journal/blob/main/notebooks/Supervised%20Learning/simple-random-points-classification-tensorflow.ipynb)
